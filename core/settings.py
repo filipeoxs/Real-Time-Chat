@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-rm7%8dc_f$uq%ct2ct-c2h!qsxdyth)n*j1#jqm94j0k(wdn+w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://realtimechatdjango.azurewebsites.net','http://127.0.0.1:8000/']
+ALLOWED_HOSTS = ['realtimechatdjango.azurewebsites.net','127.0.0.1']
 
 
 # Application definition
